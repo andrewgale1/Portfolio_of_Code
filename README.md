@@ -1,18 +1,20 @@
-###  Portfolio of Work by Andrew Gale
+###  Samples of Code by Andrew Gale
 ***
 
 #### HTML & CSS
-
-
-#### SQL & Database
-
+* 
+* 
 
 #### JavaScript
+*
 
+
+#### SQL
+*
 
 #### Python
-
+* https://github.com/andrewgale1/python_GuessNumber
 
 #### C\# 
-
+* coming soon
 
