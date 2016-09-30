@@ -1,7 +1,7 @@
 ###  Samples of Code by Andrew Gale
 ***
 
-#### HTML &amp CSS
+#### HTML & CSS
 * https://github.com/andrewgale1/LOGINform
 * https://github.com/andrewgale1/andrewgale1.github.io
 
